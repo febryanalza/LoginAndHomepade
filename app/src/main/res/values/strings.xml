@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RyanAPP</string>
+    <string name="add_nav">Add</string>
+    <string name="home_nav">Home</string>
+    <string name="search_nav">Search</string>
+    <string name="notif_nav">Notification</string>
+    <string name="account_nav">Account</string>
+    <string name="Login">LOGIN</string>
+    <string name="username">username</string>
+    <string name="Password">Password</string>
+</resources>
