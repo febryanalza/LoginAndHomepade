@@ -8,4 +8,7 @@
     <string name="Login">LOGIN</string>
     <string name="username">username</string>
     <string name="Password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="email">Email</string>
 </resources>
